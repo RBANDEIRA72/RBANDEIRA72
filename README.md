@@ -13,4 +13,4 @@ Atualmente trabalho em uma empresa no setor de Transportes, porém decidi que é
 A fim de me manter competitivo no mercado de trabalho, atualmente estou adquirindo novos conhecimentos de Desenvolvimento de Sistemas, RPA (Robotic Process Automation), Power BI, entre outros.
 
 ## Contato:
-## 📩: rogeriombandeira@yahoo.com.br
+## 📩: rogermendesbandeira@gmail.com / rogeriombandeira@yahoo.com.br 
