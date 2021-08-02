@@ -10,7 +10,7 @@ Por questões pessoais, tive que adiar o sonho de trabalhar na área de T.I. e, 
 
 Atualmente trabalho em uma empresa no setor de Transportes, porém decidi que é o momento de retomar o meu sonho e resolvi fazer uma transição para a área de T.I.  
 
-A fim de me manter competitivo no mercado de trabalho, atualmente estou adquirindo novos conhecimentos de Desenvolvimento de Sistemas, RPA (Robotic Process Automation), Power BI, entre outros.
+A fim de me manter competitivo no mercado de trabalho, atualmente adquirindo novos conhecimentos de Desenvolvimento de Sistemas (Java, Agular, Spring Boot, entre outros).
 
 ### Contato:
 ### 📩: rogermendesbandeira@gmail.com
